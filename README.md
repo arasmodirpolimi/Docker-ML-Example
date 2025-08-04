@@ -1,5 +1,5 @@
 ---
-title: Tech Stack Advisor
+title: ML Navigator
 emoji: 🧠
 colorFrom: indigo
 colorTo: pink
@@ -10,9 +10,9 @@ license: apache-2.0
 duplicable: true
 ---
 
-# 🧠 Tech Stack Advisor – ML App (with Docker & Hugging Face Deployment)
+# 🧠 ML Navigator – ML App (with Docker & Hugging Face Deployment)
 
-**Tech Stack Advisor** is a hands-on machine learning project designed to teach you how to build, containerize, and deploy an ML-powered web application using Docker and Hugging Face Spaces.
+**ML Navigator** is a hands-on machine learning project designed to teach you how to build, containerize, and deploy an ML-powered web application using Docker and Hugging Face Spaces.
 
 > 🎯 This project is part of the **"Artificial Intelligence and Machine Learning (AI/ML) with Docker"** course from **School of DevOps**.
 
@@ -29,7 +29,6 @@ duplicable: true
 ---
 
 ## 📁 Project Structure
-
 ```
 
 tech-stack-advisor/
